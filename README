@@ -1,0 +1,2 @@
+En combinant capteurs médicaux, cryptographie avancée et communication en temps réel, cette solution permet la transmission sécurisée de paramètres vitaux cruciaux pour l'évaluation de la fonction rénale.
+Le script se distingue par sa capacité à générer, chiffrer, transmettre et stocker des données médicales sensibles via un réseau MQTT tout en maintenant une sécurité de niveau médical. L'architecture est particulièrement pertinente dans un contexte où la télémédecine devient essentielle pour le suivi des maladies chroniques
